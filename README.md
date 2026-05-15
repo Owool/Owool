@@ -8,15 +8,3 @@
   <!-- 趣味标签 -->
   <img src="https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white" />
 </div>
-
-<!-- 自动生成的 GitHub 统计卡片 -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Owool&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计" style="width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owool&layout=compact&theme=radical" alt="常用语言" style="width: 48%;"/>
-</div>
-
-## 🎨 趣味数据
-<!-- GitHub 贡献图 -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
-</div>
